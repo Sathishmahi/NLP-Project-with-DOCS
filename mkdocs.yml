@@ -1,16 +1,16 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: NLP-Project-with-DOCS
 # defeine TOC or order of website-
 nav:
   - Home: index.md
 
 site_author: Sathish Kumar
 site_description: >-
-  DESCRIPTION
+  This is a NLP Project
 
 # Repository
-repo_name: Sathishmahi/REPO_NAME
-repo_url: https://github.com/Sathishmahi/REPO_NAME
+repo_name: Sathishmahi/NLP-Project-with-DOCS
+repo_url: https://github.com/Sathishmahi/NLP-Project-with-DOCS
 
 # Configuration
 theme:
